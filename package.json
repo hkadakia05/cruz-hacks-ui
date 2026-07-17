@@ -1,0 +1,22 @@
+{
+  "name": "cruz-hacks-ui",
+  "version": "1.0.0",
+  "description": "CruzHacks front-end UI with Google partnership",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode production",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "vite": "^8.1.5"
+  },
+  "keywords": [
+    "hackathon",
+    "google",
+    "partnership"
+  ],
+  "author": "CruzHacks Team",
+  "license": "MIT"
+}
